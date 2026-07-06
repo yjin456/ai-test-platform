@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# pytest
+.pytest_cache/
+
+# Logs
+logs/
+
+# Screenshots
+screenshots/
+
+# Reports
+reports/
+
+# 系统文件
+.DS_Store
+Thumbs.db
