@@ -1,0 +1,15 @@
+uiautomator2==3.2.10
+
+adbutils
+
+pytest
+
+loguru
+
+allure-pytest
+
+opencv-python
+
+pillow
+
+requests

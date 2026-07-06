@@ -40,7 +40,7 @@ class Config:
     # Android
     # ==========================
 
-    DEVICE = "emulator-5554"
+    DEVICE = "emulator-5556"
 
     APP_PACKAGE = "com.android.settings"
 
